@@ -1,0 +1,101 @@
+Property_ID,Property_Type,Location,Size_sqft,EPC_Rating,Year_Built,Lease_Start,Lease_End,Repairing_Obligation,Schedule_of_Condition,Tenant_Type,Tenant_Industry,Tenant_Solvency,Survey_Score,Defects_Identified,Original_Claim_Amount,Negotiated,Legal_Dispute,Mediation_Used,Time_to_Settlement_Days,Settlement_Amount
+P001,Industrial,Leeds,6592,A,1981,2003-01-01,2019-01-01,Full Repairing,True,Corporate,Retail,Moderate,9.2,13,144938,No,No,No,91,50832
+P002,Office,Leeds,12494,A,1996,2014-01-01,2024-01-01,Partial,True,Charity,Healthcare,Strong,2.1,12,109599,Yes,Yes,No,267,32275
+P003,Industrial,Leeds,11429,B,1972,2009-01-01,2021-01-01,Internal Only,True,Charity,Healthcare,Weak,3.1,4,92355,Yes,Yes,Yes,215,23208
+P004,Industrial,Birmingham,8392,A,2015,2009-01-01,2018-01-01,Partial,True,Corporate,Education,Weak,2.5,5,111248,Yes,No,No,86,34890
+P005,Office,Birmingham,14696,C,1976,2002-01-01,2016-01-01,Full Repairing,False,Public Sector,Education,Weak,2.7,25,44762,No,Yes,Yes,21,16588
+P006,Office,Birmingham,14688,D,1951,2009-01-01,2019-01-01,Full Repairing,False,Corporate,Manufacturing,Strong,8.5,25,31046,Yes,Yes,Yes,304,9238
+P007,Industrial,London,2306,A,1966,2000-01-01,2024-01-01,Full Repairing,True,Charity,Manufacturing,Strong,4.0,14,116999,No,Yes,No,233,48616
+P008,Retail,Leeds,13221,A,1982,2007-01-01,2018-01-01,Full Repairing,True,Corporate,Finance,Strong,3.8,22,144130,No,No,Yes,22,51459
+P009,Industrial,Birmingham,7776,B,1958,2004-01-01,2024-01-01,Full Repairing,True,Public Sector,Finance,Strong,3.0,7,136021,Yes,No,Yes,55,38879
+P010,Industrial,Birmingham,11867,B,1992,2012-01-01,2022-01-01,Full Repairing,False,Corporate,Manufacturing,Weak,6.5,7,48769,No,No,No,164,16134
+P011,Industrial,London,14260,C,1997,2003-01-01,2019-01-01,Full Repairing,False,Charity,Manufacturing,Weak,4.4,8,73302,Yes,No,Yes,122,21326
+P012,Industrial,Birmingham,6864,D,1988,2007-01-01,2018-01-01,Internal Only,False,Public Sector,Retail,Moderate,7.7,11,43150,Yes,No,Yes,242,12033
+P013,Office,London,10474,B,1991,2006-01-01,2020-01-01,Partial,False,Retail,Education,Moderate,2.9,4,88247,Yes,No,Yes,26,23796
+P014,Industrial,Manchester,8526,A,1975,2001-01-01,2020-01-01,Full Repairing,False,Charity,Finance,Strong,8.1,23,24853,Yes,No,Yes,232,6805
+P015,Retail,Birmingham,9901,D,1999,2000-01-01,2018-01-01,Internal Only,False,Public Sector,Education,Weak,6.4,14,114613,Yes,Yes,No,363,29317
+P016,Office,Manchester,6575,D,1974,2011-01-01,2024-01-01,Internal Only,False,Public Sector,Education,Weak,2.0,5,140900,No,Yes,No,197,51223
+P017,Retail,London,6530,A,1973,2010-01-01,2019-01-01,Partial,False,Retail,Manufacturing,Weak,4.7,22,109399,No,No,No,353,42436
+P018,Retail,Leeds,13936,B,1962,2003-01-01,2020-01-01,Full Repairing,False,Corporate,Retail,Moderate,8.8,28,41792,No,Yes,Yes,172,14359
+P019,Retail,Birmingham,5413,A,2009,2007-01-01,2019-01-01,Partial,True,Corporate,Healthcare,Moderate,9.3,24,79129,Yes,Yes,Yes,335,21484
+P020,Retail,London,4748,D,1956,2011-01-01,2020-01-01,Full Repairing,True,Charity,Retail,Weak,5.2,14,126019,Yes,No,No,83,34719
+P021,Office,Leeds,14545,E,2006,2001-01-01,2022-01-01,Internal Only,True,Retail,Retail,Weak,5.3,26,94478,Yes,Yes,Yes,242,29883
+P022,Office,Leeds,13971,E,1985,2002-01-01,2024-01-01,Internal Only,True,Corporate,Education,Weak,9.3,19,133811,No,Yes,Yes,233,43987
+P023,Retail,Manchester,1663,C,1994,2011-01-01,2022-01-01,Internal Only,False,Retail,Retail,Moderate,6.3,12,134130,Yes,Yes,Yes,328,36720
+P024,Retail,London,2998,A,1969,2000-01-01,2020-01-01,Internal Only,False,Corporate,Finance,Weak,1.3,26,87298,No,Yes,Yes,69,35591
+P025,Office,Leeds,8994,A,2014,2000-01-01,2022-01-01,Partial,True,Public Sector,Education,Weak,9.2,29,51987,No,Yes,No,344,18018
+P026,Office,Birmingham,12637,C,1957,2012-01-01,2020-01-01,Full Repairing,False,Corporate,Finance,Strong,3.2,16,35850,Yes,No,No,231,11631
+P027,Office,Birmingham,12935,C,1965,2002-01-01,2018-01-01,Full Repairing,True,Retail,Healthcare,Strong,6.2,25,32112,Yes,No,No,46,9412
+P028,Industrial,Manchester,14919,C,1963,2010-01-01,2022-01-01,Partial,False,Public Sector,Education,Moderate,2.5,19,141789,No,No,Yes,287,56668
+P029,Industrial,Leeds,2495,D,1964,2004-01-01,2017-01-01,Full Repairing,True,Public Sector,Healthcare,Weak,1.3,20,44058,Yes,Yes,No,205,13893
+P030,Industrial,London,4304,A,2015,2011-01-01,2024-01-01,Internal Only,False,Public Sector,Education,Weak,3.8,21,65420,No,No,No,361,27181
+P031,Retail,Birmingham,4763,D,1981,2002-01-01,2016-01-01,Full Repairing,False,Retail,Manufacturing,Strong,8.0,19,58890,Yes,Yes,Yes,251,17629
+P032,Industrial,Leeds,6232,C,2012,2000-01-01,2021-01-01,Internal Only,True,Charity,Retail,Moderate,3.5,16,86017,Yes,Yes,Yes,333,26151
+P033,Retail,Leeds,2853,A,2000,2000-01-01,2022-01-01,Partial,False,Charity,Manufacturing,Strong,3.0,11,67304,No,Yes,No,228,27203
+P034,Retail,Manchester,14808,D,1974,2007-01-01,2023-01-01,Full Repairing,True,Charity,Healthcare,Strong,2.9,10,52921,Yes,Yes,No,201,13856
+P035,Industrial,Birmingham,7585,D,2007,2009-01-01,2024-01-01,Partial,True,Retail,Retail,Strong,5.6,4,125921,No,No,No,26,43121
+P036,Retail,Birmingham,13851,C,2012,2010-01-01,2017-01-01,Full Repairing,True,Public Sector,Education,Strong,9.8,15,21524,Yes,No,No,21,5773
+P037,Industrial,London,2291,A,2011,2011-01-01,2017-01-01,Internal Only,True,Charity,Retail,Weak,5.1,27,120424,No,Yes,Yes,202,40754
+P038,Industrial,Birmingham,4581,C,1971,2012-01-01,2020-01-01,Partial,False,Retail,Finance,Weak,6.0,9,35048,No,No,No,31,12922
+P039,Office,London,12649,A,2007,2012-01-01,2020-01-01,Full Repairing,False,Charity,Retail,Strong,8.7,11,55111,Yes,Yes,No,129,13597
+P040,Industrial,Birmingham,8554,E,2007,2011-01-01,2021-01-01,Internal Only,False,Corporate,Finance,Moderate,5.8,24,57904,No,No,Yes,219,20820
+P041,Office,Manchester,8280,B,1998,2014-01-01,2018-01-01,Partial,True,Charity,Retail,Moderate,2.7,24,74912,Yes,No,No,315,23312
+P042,Industrial,Birmingham,2636,B,2001,2013-01-01,2023-01-01,Partial,False,Charity,Finance,Moderate,3.7,13,54008,Yes,Yes,Yes,279,17271
+P043,Industrial,London,4696,B,1991,2001-01-01,2016-01-01,Full Repairing,True,Public Sector,Healthcare,Moderate,3.8,16,20060,Yes,No,Yes,201,5078
+P044,Office,London,12191,C,2019,2012-01-01,2021-01-01,Full Repairing,False,Retail,Manufacturing,Strong,4.6,6,94666,No,Yes,Yes,184,35933
+P045,Office,Manchester,12344,E,1964,2002-01-01,2019-01-01,Full Repairing,False,Public Sector,Education,Weak,4.8,28,103559,No,No,No,294,41917
+P046,Industrial,Birmingham,1698,A,2003,2001-01-01,2016-01-01,Internal Only,False,Public Sector,Retail,Moderate,8.2,28,75337,Yes,Yes,No,213,18026
+P047,Retail,Birmingham,11352,D,2009,2002-01-01,2022-01-01,Full Repairing,True,Public Sector,Manufacturing,Strong,4.1,15,130616,Yes,Yes,Yes,173,40393
+P048,Office,Manchester,13289,A,1957,2006-01-01,2024-01-01,Partial,False,Public Sector,Education,Moderate,5.2,4,33350,No,No,No,260,12118
+P049,Retail,Birmingham,5737,D,2002,2000-01-01,2019-01-01,Partial,False,Public Sector,Education,Moderate,6.6,25,44354,Yes,No,No,236,11629
+P050,Retail,Birmingham,14877,A,2009,2009-01-01,2019-01-01,Full Repairing,True,Charity,Finance,Strong,4.4,7,65186,Yes,Yes,Yes,16,20833
+P051,Retail,London,1854,E,1954,2007-01-01,2021-01-01,Full Repairing,False,Public Sector,Healthcare,Weak,8.5,13,48145,No,No,Yes,38,16182
+P052,Office,Birmingham,9164,D,2017,2012-01-01,2018-01-01,Partial,True,Public Sector,Healthcare,Weak,6.3,8,54020,Yes,No,No,42,15698
+P053,Retail,Birmingham,6855,C,1955,2009-01-01,2021-01-01,Internal Only,False,Retail,Manufacturing,Strong,3.6,20,106123,No,Yes,Yes,143,43145
+P054,Office,Manchester,8392,A,1996,2009-01-01,2022-01-01,Full Repairing,True,Corporate,Healthcare,Weak,7.4,23,126667,Yes,Yes,No,88,30265
+P055,Retail,Manchester,7528,A,2004,2009-01-01,2018-01-01,Full Repairing,True,Charity,Retail,Strong,5.7,12,95186,No,No,No,67,36566
+P056,Industrial,Leeds,12666,D,1989,2013-01-01,2022-01-01,Partial,False,Charity,Healthcare,Strong,5.8,6,105469,Yes,Yes,No,35,32880
+P057,Industrial,London,14949,C,2001,2001-01-01,2018-01-01,Full Repairing,True,Charity,Manufacturing,Strong,5.3,11,40581,Yes,Yes,No,235,10228
+P058,Office,Birmingham,6249,C,1965,2002-01-01,2017-01-01,Internal Only,True,Public Sector,Healthcare,Weak,5.5,8,108929,No,Yes,Yes,294,43791
+P059,Industrial,Birmingham,6172,E,1962,2008-01-01,2019-01-01,Partial,True,Public Sector,Retail,Strong,7.9,4,43051,Yes,No,Yes,13,11934
+P060,Industrial,Leeds,2707,C,1979,2006-01-01,2023-01-01,Full Repairing,True,Public Sector,Finance,Moderate,1.9,19,71474,No,No,Yes,108,28561
+P061,Retail,Birmingham,11969,C,1968,2003-01-01,2024-01-01,Partial,True,Retail,Manufacturing,Weak,4.0,7,111748,Yes,Yes,Yes,48,32807
+P062,Office,London,6791,C,1966,2009-01-01,2022-01-01,Full Repairing,True,Corporate,Finance,Weak,1.7,27,145995,No,No,No,280,54857
+P063,Retail,Leeds,10925,B,2012,2004-01-01,2016-01-01,Full Repairing,False,Public Sector,Finance,Weak,7.8,8,134618,No,Yes,No,294,52827
+P064,Retail,London,6535,E,1968,2001-01-01,2018-01-01,Full Repairing,True,Corporate,Finance,Weak,3.5,28,89626,No,No,Yes,166,37349
+P065,Retail,Leeds,5931,A,2007,2012-01-01,2024-01-01,Internal Only,True,Retail,Education,Moderate,9.1,14,26960,No,Yes,No,84,9796
+P066,Retail,Leeds,4510,D,2004,2010-01-01,2016-01-01,Internal Only,False,Charity,Education,Weak,5.7,25,55772,Yes,Yes,No,297,16713
+P067,Retail,Manchester,1202,A,2011,2012-01-01,2024-01-01,Partial,False,Public Sector,Finance,Weak,8.2,23,41520,Yes,No,No,139,11513
+P068,Retail,London,12447,E,1972,2007-01-01,2023-01-01,Full Repairing,False,Corporate,Manufacturing,Strong,9.8,12,69481,No,Yes,Yes,184,24311
+P069,Retail,Birmingham,5218,D,1958,2003-01-01,2016-01-01,Full Repairing,False,Corporate,Retail,Weak,8.6,24,56408,No,No,Yes,93,20785
+P070,Office,Birmingham,13688,E,1961,2008-01-01,2021-01-01,Internal Only,False,Public Sector,Retail,Moderate,8.8,23,114006,No,No,Yes,31,41016
+P071,Industrial,London,9958,C,1950,2004-01-01,2020-01-01,Full Repairing,False,Charity,Healthcare,Moderate,4.7,29,148496,Yes,Yes,No,36,43021
+P072,Retail,Birmingham,5389,D,2007,2012-01-01,2021-01-01,Internal Only,False,Charity,Manufacturing,Moderate,6.0,27,77134,Yes,Yes,Yes,204,23024
+P073,Retail,Birmingham,3327,C,1950,2008-01-01,2020-01-01,Full Repairing,True,Charity,Education,Moderate,3.3,8,40491,Yes,No,Yes,346,11586
+P074,Retail,London,9004,A,1983,2003-01-01,2021-01-01,Partial,True,Retail,Finance,Weak,2.8,29,21341,Yes,Yes,Yes,245,5421
+P075,Retail,Leeds,3931,A,1997,2009-01-01,2020-01-01,Full Repairing,False,Corporate,Healthcare,Weak,5.5,10,64623,No,Yes,Yes,101,22454
+P076,Retail,London,8777,D,1950,2004-01-01,2020-01-01,Full Repairing,True,Corporate,Retail,Moderate,6.4,4,110327,No,Yes,Yes,30,40101
+P077,Retail,Leeds,1197,D,1965,2008-01-01,2019-01-01,Internal Only,True,Corporate,Education,Moderate,4.1,14,20338,No,Yes,Yes,312,8065
+P078,Industrial,Birmingham,8125,E,2010,2007-01-01,2018-01-01,Full Repairing,True,Retail,Education,Weak,6.1,15,91431,Yes,Yes,No,93,25968
+P079,Industrial,Birmingham,2930,E,2013,2002-01-01,2018-01-01,Full Repairing,False,Corporate,Finance,Moderate,9.0,27,32254,Yes,No,No,271,8931
+P080,Retail,Birmingham,12774,C,2012,2000-01-01,2019-01-01,Internal Only,False,Retail,Retail,Strong,6.0,23,71860,Yes,No,Yes,156,19830
+P081,Industrial,Manchester,7287,D,2018,2002-01-01,2024-01-01,Partial,True,Charity,Manufacturing,Moderate,7.5,9,31344,No,Yes,Yes,266,11625
+P082,Office,Leeds,9800,A,1971,2003-01-01,2017-01-01,Partial,False,Public Sector,Education,Moderate,8.2,12,21750,No,Yes,No,67,7541
+P083,Retail,Manchester,12464,E,2016,2001-01-01,2024-01-01,Internal Only,True,Corporate,Finance,Strong,9.9,15,74756,Yes,Yes,No,24,19495
+P084,Office,Manchester,10339,E,1975,2000-01-01,2016-01-01,Internal Only,True,Corporate,Manufacturing,Strong,6.4,19,87957,No,No,Yes,171,33949
+P085,Office,London,5282,A,1965,2006-01-01,2016-01-01,Internal Only,True,Charity,Retail,Weak,8.3,28,125423,Yes,Yes,Yes,172,37066
+P086,Retail,Manchester,12589,E,2000,2007-01-01,2020-01-01,Internal Only,True,Public Sector,Education,Weak,9.7,23,78053,Yes,No,Yes,329,20212
+P087,Industrial,London,3511,C,2006,2006-01-01,2021-01-01,Internal Only,False,Retail,Manufacturing,Strong,9.5,28,90855,No,No,Yes,290,29103
+P088,Office,London,10986,D,1978,2013-01-01,2021-01-01,Partial,False,Public Sector,Manufacturing,Strong,2.3,16,35896,Yes,No,No,289,9515
+P089,Retail,Manchester,1659,A,2018,2004-01-01,2018-01-01,Partial,False,Charity,Manufacturing,Weak,4.7,4,75761,No,Yes,Yes,21,25790
+P090,Office,Leeds,3811,D,1996,2011-01-01,2022-01-01,Internal Only,True,Charity,Education,Moderate,3.9,24,82552,Yes,No,Yes,283,24521
+P091,Office,Leeds,8098,E,2011,2000-01-01,2024-01-01,Full Repairing,False,Public Sector,Education,Strong,1.8,13,140075,No,Yes,Yes,280,52932
+P092,Office,Leeds,7546,E,2018,2006-01-01,2023-01-01,Internal Only,True,Retail,Healthcare,Weak,6.7,3,97454,No,No,Yes,217,36020
+P093,Office,Leeds,10561,A,1965,2012-01-01,2021-01-01,Full Repairing,False,Retail,Retail,Moderate,7.6,21,146522,No,Yes,No,36,52969
+P094,Industrial,Leeds,2986,C,1997,2006-01-01,2023-01-01,Internal Only,True,Corporate,Finance,Strong,8.6,23,138681,Yes,No,No,81,32988
+P095,Office,Manchester,14822,B,1988,2008-01-01,2020-01-01,Internal Only,True,Retail,Manufacturing,Moderate,2.1,6,110600,Yes,Yes,No,69,31475
+P096,Office,Manchester,9338,A,1982,2002-01-01,2023-01-01,Partial,True,Public Sector,Healthcare,Weak,8.9,21,142732,No,No,Yes,154,47905
+P097,Office,Birmingham,12411,B,1972,2008-01-01,2019-01-01,Full Repairing,False,Charity,Finance,Strong,6.8,28,132153,No,Yes,Yes,102,47578
+P098,Industrial,Leeds,3911,B,1959,2013-01-01,2023-01-01,Full Repairing,False,Corporate,Healthcare,Moderate,7.3,23,142926,Yes,Yes,No,318,35885
+P099,Office,Manchester,2734,C,2018,2000-01-01,2017-01-01,Partial,False,Corporate,Education,Strong,9.2,13,47935,Yes,Yes,Yes,17,13882
+P100,Office,Birmingham,2843,B,1983,2000-01-01,2020-01-01,Partial,False,Charity,Manufacturing,Moderate,6.6,10,57641,Yes,Yes,Yes,88,14487
