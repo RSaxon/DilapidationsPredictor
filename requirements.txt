@@ -1,9 +1,9 @@
 joblib 
 shap
 datetime
-streamlit
 matplotlib
 pandas 
 numpy 
 seaborn 
-scikit-learn 
+streamlit==1.32.2
+scikit-learn==1.2.2
